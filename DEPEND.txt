@@ -1,0 +1,8 @@
+########################################
+# Dependencies
+#
+# This software requires the following to be installed on your computer:
+# FreeType2, v??(Ubuntu says 6, SF says 2.4.11), http://www.freetype.org/, GPL2 or FTL
+# FreeType-py, v 0.3.3+, http://code.google.com/p/freetype-py/, BSD3 license
+#
+########################################
